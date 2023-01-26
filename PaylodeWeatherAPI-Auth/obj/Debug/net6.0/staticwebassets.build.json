@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "50NyRtBSax8DA+8FmoNU9h5XxCOgpwCNSX5djybbBEI=",
+  "Source": "PaylodeWeatherAPI-Auth",
+  "BasePath": "_content/PaylodeWeatherAPI-Auth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

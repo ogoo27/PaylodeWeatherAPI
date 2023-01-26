@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PaylodeWeatherAPI.Contracts/1.0.0": {
+        "dependencies": {
+          "PaylodeWeatherAPI.Credential-Auth": "1.0.0"
+        },
+        "runtime": {
+          "PaylodeWeatherAPI.Contracts.dll": {}
+        }
+      },
+      "PaylodeWeatherAPI.Credential-Auth/1.0.0": {
+        "runtime": {
+          "PaylodeWeatherAPI.Credential-Auth.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PaylodeWeatherAPI.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PaylodeWeatherAPI.Credential-Auth/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

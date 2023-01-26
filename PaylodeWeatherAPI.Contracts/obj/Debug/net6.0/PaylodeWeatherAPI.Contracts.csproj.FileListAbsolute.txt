@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\PaylodeWeatherAPI\PaylodeWeatherAPI.Contracts\bin\Debug\net6.0\PaylodeWeatherAPI.Contracts.deps.json
+C:\Users\hp\source\repos\PaylodeWeatherAPI\PaylodeWeatherAPI.Contracts\bin\Debug\net6.0\PaylodeWeatherAPI.Contracts.dll
+C:\Users\hp\source\repos\PaylodeWeatherAPI\PaylodeWeatherAPI.Contracts\bin\Debug\net6.0\PaylodeWeatherAPI.Contracts.pdb
+C:\Users\hp\source\repos\PaylodeWeatherAPI\PaylodeWeatherAPI.Contracts\bin\Debug\net6.0\PaylodeWeatherAPI.Credential-Auth.dll
+C:\Users\hp\source\repos\PaylodeWeatherAPI\PaylodeWeatherAPI.Contracts\bin\Debug\net6.0\PaylodeWeatherAPI.Credential-Auth.pdb
+C:\Users\hp\source\repos\PaylodeWeatherAPI\PaylodeWeatherAPI.Contracts\obj\Debug\net6.0\PaylodeWeatherAPI.Contracts.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\PaylodeWeatherAPI\PaylodeWeatherAPI.Contracts\obj\Debug\net6.0\PaylodeWeatherAPI.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\PaylodeWeatherAPI\PaylodeWeatherAPI.Contracts\obj\Debug\net6.0\PaylodeWeatherAPI.Contracts.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\PaylodeWeatherAPI\PaylodeWeatherAPI.Contracts\obj\Debug\net6.0\PaylodeWeatherAPI.Contracts.AssemblyInfo.cs
+C:\Users\hp\source\repos\PaylodeWeatherAPI\PaylodeWeatherAPI.Contracts\obj\Debug\net6.0\PaylodeWeatherAPI.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\PaylodeWeatherAPI\PaylodeWeatherAPI.Contracts\obj\Debug\net6.0\PaylodeWeatherAPI.Contracts.csproj.CopyComplete
+C:\Users\hp\source\repos\PaylodeWeatherAPI\PaylodeWeatherAPI.Contracts\obj\Debug\net6.0\PaylodeWeatherAPI.Contracts.dll
+C:\Users\hp\source\repos\PaylodeWeatherAPI\PaylodeWeatherAPI.Contracts\obj\Debug\net6.0\refint\PaylodeWeatherAPI.Contracts.dll
+C:\Users\hp\source\repos\PaylodeWeatherAPI\PaylodeWeatherAPI.Contracts\obj\Debug\net6.0\PaylodeWeatherAPI.Contracts.pdb
+C:\Users\hp\source\repos\PaylodeWeatherAPI\PaylodeWeatherAPI.Contracts\obj\Debug\net6.0\ref\PaylodeWeatherAPI.Contracts.dll
